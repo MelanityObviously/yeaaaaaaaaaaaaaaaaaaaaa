@@ -1,0 +1,9 @@
+<style type="text/css" scoped>
+table.GeneratedTable {
+width:100%;
+background-color:#FFFFFF;
+border-collapse:collapse;border-width:1px;
+border-color:#336600;
+border-style:solid;
+color:#009900;
+}
